@@ -1,4 +1,4 @@
-Q. Spiral Matrix
+/*Q. Spiral Matrix
 
   Example 1:
 Input: matrix = [[1,2,3],
@@ -7,7 +7,7 @@ Input: matrix = [[1,2,3],
                  
 Output: [1,2,3,6,9,8,7,4,5]
 
-Code:
+Code:*/
 
  class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
