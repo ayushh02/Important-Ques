@@ -1,4 +1,4 @@
-Q. Maximum Subarray (Kadane's Algorithm)
+/*Q. Maximum Subarray (Kadane's Algorithm)
    Given an integer array nums, find the subarray with the largest sum, and return its sum.
 Example 1:
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
@@ -11,7 +11,7 @@ Output: 1
 Explanation: The subarray [1] has the largest sum 1.
 
 
-Code:
+Code:*/
 class Solution {
     public int maxSubArray(int[] nums) {
         int cur=0;
